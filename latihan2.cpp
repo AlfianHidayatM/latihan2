@@ -31,4 +31,6 @@ int main(){
 		cin >> lebar;
 		cout <<tinggi*lebar;
 	}
+	else
+	cout <<"Lihat diatas Prosedurnya";
 }
