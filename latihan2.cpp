@@ -16,4 +16,13 @@ int main(){
 		cout <<"Anda Mau Hitung Apa? \n"
 			 <<"'p'untuk persegi | 'S' untuk segitiga= ";
 		cin >> inisial;
+		
+		if (inisial=='S' || inisial=='s'){
+			
+		cout <<"Masukan alas : "; 
+		cin >> alas;
+		cout <<"Masukan Tinggi : ";
+		cin >> tinggi;
+		cout <<0.5*alas*tinggi;
+	}
 }
