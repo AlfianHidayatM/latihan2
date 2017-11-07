@@ -18,7 +18,6 @@ int main(){
 		cin >> inisial;
 		
 		if (inisial=='S' || inisial=='s'){
-			
 		cout <<"Masukan alas : "; 
 		cin >> alas;
 		cout <<"Masukan Tinggi : ";
