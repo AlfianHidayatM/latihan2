@@ -24,8 +24,7 @@ int main(){
 		cin >> tinggi;
 		cout <<0.5*alas*tinggi;
 	}
-	else if (inisial=='P'||inisial=='p')
-	{
+	else if (inisial=='P'||inisial=='p'){
 		cout <<"Masukan Tinggi : ";
 		cin >> tinggi;
 		cout <<"Masukan Lebar : ";
